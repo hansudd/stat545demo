@@ -3,6 +3,6 @@ Just a demo for in class.
 
 New info here.
 
-I'm making more changes. 
+This is a change that is made on my computer, not on Github. 
 
-More changes made here. 
+5 + 2 = 7
