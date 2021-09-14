@@ -5,4 +5,6 @@ New info here.
 
 This is a change that is made on my computer, not on Github. 
 
+Making more changes. 
+
 5 + 2 = 7
