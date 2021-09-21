@@ -11,4 +11,8 @@ Making changes on local computer and then pushing to Github
 
 5 + 2 = 7
 
-Making a change to the main branch
+
+This is a demonstration. Making a change to the main branch.
+
+Practicing merging branches and pull requests. 
+
